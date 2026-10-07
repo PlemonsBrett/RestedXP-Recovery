@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: RestedXP Recovery
+## Notes: Detects missing RestedXP quest prerequisites and builds a recovery plan.
+## Author: PlemonsBrett
+## Version: 0.4.0
+## Dependencies: RXPGuides
+## OptionalDeps: Questie
+## SavedVariablesPerCharacter: RXPRecoveryDB
+
+Planner.lua
+RouteBuilder.lua
+XPPlanner.lua
+Core.lua
+Scanner.lua
+Integration.lua
+UI.lua
